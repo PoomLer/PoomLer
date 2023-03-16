@@ -15,7 +15,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             PoomLerTheme {
                 Surface {
-                    Text(text = "Thaw Zin Toe")
+                    Text(text = "")
                 }
             }
         }
