@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "PoomLer"
-include ':app'
+include(":app")

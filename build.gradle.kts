@@ -8,6 +8,7 @@ plugins {
     alias(libs.plugins.kotlin.kapt) apply false
     alias(libs.plugins.ksp) apply false
     alias(libs.plugins.gms.googleServices) apply false
+    id("org.jetbrains.kotlin.jvm") version "1.8.10" apply false
 }
 
 buildscript {
